@@ -1,0 +1,1 @@
+本demo中的pom文件没有添加log4j等jar包坐标，里面的坐标仅能实现操作elasticsearch的所有操作。其他操作请根据自己的需求进行添加
